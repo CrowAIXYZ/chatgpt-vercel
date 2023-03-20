@@ -2,12 +2,9 @@
 ![](assets/preview-light.png#gh-light-mode-only)
 ![](assets/preview-dark.png#gh-dark-mode-only)
 
-> 本项目基于 [chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo) 开发。
+> 本项目基于 [chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel) 开发。
 
-在线预览:
-
-1. [aitoolgpt.com](https://www.aitoolgpt.com)，由 [@AUDI_GUZZ](https://m.okjike.com/users/4af3cfb4-1291-4a8b-b210-f515c86934a9) 免费提供。
-2. [chatsverse.xyz](https://www.chatsverse.xyz)，由 [@Airyland](https://m.okjike.com/users/C6C8DE3A-E89D-4978-9E7D-B2E167D835A9) 免费提供。
+在线预览: [coplus.crowai.xyz](https://coplus.crowai.xyz)
 
 API Key 由我自己免费提供，请不要滥用，不提供长期服务，请自行部署。
 
