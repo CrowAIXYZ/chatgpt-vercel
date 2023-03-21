@@ -312,7 +312,7 @@ export default function (props: {
           fzf
             .find(query)
             .map(k => k.item)
-            .slice(0, 100)
+            .slice(0, 20)
         )
     },
     250,
