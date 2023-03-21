@@ -9,7 +9,7 @@ export const setting = {
 
 export const message = `Powered by OpenAI Vercel
 - 由 [@wallezen](https://github.com/wallezen) 基于 [chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel) 开发部署。
-- 开头输入 [[/]] 或者 [[空格]] 展示预设提示词(Prompt)。
+- 开头输入 [[/]] 或者 [[空格]] 展示预设提示词(Prompt)。`
 
 export type Setting = typeof setting
 
