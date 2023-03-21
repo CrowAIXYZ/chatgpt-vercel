@@ -305,7 +305,7 @@ export default function (props: {
   const find = throttle(
     (value: string) => {
       if (value === "/" || value === " ")
-        return setCompatiblePrompt(props.prompts.slice(0, 20))
+        return setCompatiblePrompt(props.prompts.slice(0, 100))
       const query = value.replace(/^[\/ ](.*)/, "$1")
       if (query !== value)
         setCompatiblePrompt(
