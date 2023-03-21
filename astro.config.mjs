@@ -50,9 +50,9 @@ export default defineConfig({
       includeAssets: ["favicon.svg"],
       registerType: "autoUpdate",
       manifest: {
-        name: "ChatGPT",
+        name: "Copilot | CrowAI",
         lang: "zh-cn",
-        short_name: "ChatGPT",
+        short_name: "Copilot | CrowAI",
         background_color: "#f6f8fa",
         icons: [
           {
