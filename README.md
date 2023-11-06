@@ -4,7 +4,7 @@
 
 > 本项目基于 [chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel) 开发。
 
-在线预览: [coplus.crowai.xyz](https://coplus.crowai.xyz)
+在线预览: [co.crowai.xyz](https://co.crowai.xyz)
 
 API Key 由我自己免费提供，请不要滥用，不提供长期服务，请自行部署。
 
